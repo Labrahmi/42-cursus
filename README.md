@@ -19,9 +19,6 @@ My projects for the 42 cursus, 1337 school.
   <tr>
     <td>0</td>
     <td><a href="https://github.com/Labrahmi/Libft">Libft</a></td>
-    <!-- <td style="color: green;">115%</td> -->
-    <td>
-      <span style="color:#0f0">fsdfdsf</span>
-    </td>
+    <td data-color="green">115%</td>
   </tr>
 </table>
