@@ -21,7 +21,7 @@ My projects for the 42 cursus, 1337 school.
     <td><a href="https://github.com/Labrahmi/Libft">Libft</a></td>
     <!-- <td style="color: green;">115%</td> -->
     <td>
-      <span style="color:green">some *blue* text</span>
+      <span style="color:#0f0">fsdfdsf</span>
     </td>
   </tr>
 </table>
