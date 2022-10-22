@@ -15,8 +15,10 @@ My projects for the 42 cursus, 1337 school.
 <table>
     <th>#</th>
     <th>project</th>
+    <th>validation score</th>
   <tr>
     <td>0</td>
     <td><a href="https://github.com/Labrahmi/Libft">Libft</a></td>
+    <td style="color: green;">115%</td>
   </tr>
 </table>
