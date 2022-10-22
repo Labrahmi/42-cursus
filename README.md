@@ -12,15 +12,18 @@
     <th>#</th>
     <th>project</th>
     <th>validation score</th>
+    <th>languages</th>
   <tr>
     <td>0</td>
     <td><a href="https://github.com/Labrahmi/Libft">Libft</a></td>
     <td>115%</td>
+    <td>C, Makefile</td>
   </tr>
   <tr>
     <td>1</td>
     <td><a href="#">ft_printf</a></td>
-    <td>...(current project)</td>
+    <td>...</td>
+    <td></td>
   </tr>
 </table>
 
