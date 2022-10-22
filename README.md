@@ -12,7 +12,7 @@ My projects for the 42 cursus, 1337 school.
 </p>
 
 <h5>My Projects</h5>
-<table border="1">
+<table>
     <th>#</th>
     <th>project</th>
     <th>link to repo</th>
