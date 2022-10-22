@@ -15,10 +15,8 @@ My projects for the 42 cursus, 1337 school.
 <table>
     <th>#</th>
     <th>project</th>
-    <th>link to repo</th>
   <tr>
     <td>0</td>
-    <td>libft</td>
-    <td><a href="#">hhtp:google_hh</a></td>
+    <td><a href="https://github.com/Labrahmi/Libft">Libft</a></td>
   </tr>
 </table>
