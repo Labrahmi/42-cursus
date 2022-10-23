@@ -1,7 +1,5 @@
 # 42-cursus
-<h3>About 1337</h3>
-<p>
-  <a target="_blank" href="https://1337.ma/">1337</a> is a nonprofit and tuition-free computer science school, it belong to <a href="https://42.fr/le-reseau-mondial/">42 network</a>.
+
 </p>
 <h3>About 42-cursus</h3>
 <p>
