@@ -19,9 +19,9 @@
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="#">ft_printf</a></td>
-    <td>...</td>
-    <td></td>
+    <td><a href="https://github.com/Labrahmi/ft_printf">ft_printf</a></td>
+    <td>100%</td>
+    <td>C, Makefile</td>
   </tr>
 </table>
  
