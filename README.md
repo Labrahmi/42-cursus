@@ -10,9 +10,9 @@
 <h3>My Projects</h3>
 <table>
   <th>#</th>
-  <th>project</th>
-  <th>validation score</th>
-  <th>languages</th>
+  <th>Project</th>
+  <th>Validation score</th>
+  <th>Skills</th>
   <tr>
     <td>0</td>
     <td><a href="https://github.com/Labrahmi/Libft">Libft</a></td>
@@ -27,13 +27,13 @@
   </tr>
   <tr>
     <td>2</td>
-    <td><a href="#">get_next_line</a></td>
+    <td><a href="https://github.com/Labrahmi/get_next_line">get_next_line</a></td>
     <td>125%</td>
     <td>Rigor, Unix, Algorithms & AI</td>
   </tr>
   <tr>
     <td>3</td>
-    <td><a href="#">Born2beroot</a></td>
+    <td><a href="https://github.com/Labrahmi/born2beroot">Born2beroot</a></td>
     <td>110%</td>
     <td>Rigor, Network & system administration</td>
   </tr>
@@ -41,6 +41,18 @@
     <td>4</td>
     <td><a href="#">Exam Rank 02</a></td>
     <td>100%</td>
-    <td>First Exam</td>
+    <td>Exam, Time management</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><a href="https://github.com/Labrahmi/so_long">so_long</a></td>
+    <td>0%</td>
+    <td>Graphics, Imperative programming</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><a href="https://github.com/Labrahmi/minitalk">minitalk</a></td>
+    <td>0%</td>
+    <td>Rigor, Unix</td>
   </tr>
 </table>
