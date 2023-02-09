@@ -32,13 +32,13 @@
     <td>Rigor, Unix, Algorithms & AI</td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>3</td>
     <td><a href="#">Born2beroot</a></td>
     <td>110%</td>
     <td>Rigor, Network & system administration</td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>4</td>
     <td><a href="#">Exam Rank 02</a></td>
     <td>100%</td>
     <td>First Exam</td>
