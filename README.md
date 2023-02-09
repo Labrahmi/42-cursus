@@ -1,13 +1,13 @@
 # 42-cursus
 
 </p>
-<h3>About 42-cursus</h3>
+<h3>⎇ About 42-cursus</h3>
 <p>
   42-cursus is a collection of projects to learn and practice programming, there is a common core that every student
   have to pass so he can go for a mandatory internship, after that students choose confortably wich field to complete
   their studeis.
 </p>
-<h3>My Projects</h3>
+<h3>⎇ My Projects</h3>
 <table>
   <th>#</th>
   <th>Project</th>
