@@ -16,7 +16,7 @@
   <tr>
     <td>0</td>
     <td><a href="https://github.com/Labrahmi/Libft">Libft</a></td>
-    <td style="color:green">115%</td>
+    <td>115%</td>
     <td>Imperative programming, Algorithms & AI</td>
   </tr>
   <tr>
