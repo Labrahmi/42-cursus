@@ -77,30 +77,30 @@
     <td>10</td>
     <td><a href="https://github.com/Labrahmi/cpp-module-00">cpp-module-00</a></td>
     <td>80%</td>
-    <td>Object-oriented programming, Imperative programming, Classes</td>
+    <td>OOP, Imperative programming, Classes</td>
   </tr>
   <tr>
     <td>11</td>
     <td><a href="https://github.com/Labrahmi/cpp-module-01">cpp-module-01</a></td>
     <td>90%</td>
-    <td>Object-oriented programming, Imperative programming, Classes</td>
+    <td>OOP, Imperative programming, Classes</td>
   </tr>
   <tr>
     <td>12</td>
     <td><a href="https://github.com/Labrahmi/cpp-module-02">cpp-module-02</a></td>
     <td>80%</td>
-    <td>Object-oriented programming, Imperative programming, Polymorphism</td>
+    <td>OOP, Imperative programming, Polymorphism</td>
   </tr>
   <tr>
     <td>13</td>
     <td><a href="https://github.com/Labrahmi/cpp-module-03">cpp-module-03</a></td>
     <td>80%</td>
-    <td>Object-oriented programming, Imperative programming, Inheritance</td>
+    <td>OOP, Imperative programming, Inheritance</td>
   </tr>
   <tr>
     <td>14</td>
     <td><a href="https://github.com/Labrahmi/cpp-module-04">cpp-module-04</a></td>
     <td>100%</td>
-    <td>Object-oriented programming, Imperative programming, Interfaces</td>
+    <td>OOP, Imperative programming, Interfaces</td>
   </tr>
 </table>
