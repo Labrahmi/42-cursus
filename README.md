@@ -17,19 +17,19 @@
     <td>0</td>
     <td><a href="https://github.com/Labrahmi/Libft">Libft</a></td>
     <td>115%</td>
-    <td>Imperative programming, Algorithms & AI</td>
+    <td>Imperative programming, Algorithms </td>
   </tr>
   <tr>
     <td>1</td>
     <td><a href="https://github.com/Labrahmi/ft_printf">ft_printf</a></td>
     <td>100%</td>
-    <td>Algorithms & AI</td>
+    <td>Algorithms </td>
   </tr>
   <tr>
     <td>2</td>
     <td><a href="https://github.com/Labrahmi/get_next_line">get_next_line</a></td>
     <td>125%</td>
-    <td>Unix, Algorithms & AI</td>
+    <td>Unix, Algorithms </td>
   </tr>
   <tr>
     <td>3</td>
@@ -57,48 +57,54 @@
   </tr>
   <tr>
     <td>7</td>
+    <td><a href="https://github.com/Labrahmi/push_swap">push_swap</a></td>
+    <td>96%</td>
+    <td>Imperative programming, Sorting algorithms</td>
+  </tr>
+  <tr>
+    <td>8</td>
     <td><a href="https://github.com/Labrahmi/philosophers">philosophers</a></td>
     <td>100%</td>
     <td>Unix, Imperative programming, Multithreading</td>
   </tr>
   <tr>
-    <td>8</td>
+    <td>9</td>
     <td><a href="https://github.com/Labrahmi/minishell">minishell</a></td>
     <td>101%</td>
     <td>Unix, Imperative programming, Group</td>
   </tr>
   <tr>
-    <td>9</td>
+    <td>10</td>
     <td><a href="https://github.com/Labrahmi/#">Exam Rank 03</a></td>
     <td>100%</td>
     <td>Exam, Time management</td>
   </tr>
   <tr>
-    <td>10</td>
+    <td>11</td>
     <td><a href="https://github.com/Labrahmi/cpp-module-00">cpp-module-00</a></td>
     <td>80%</td>
     <td>OOP, Imperative programming, Classes</td>
   </tr>
   <tr>
-    <td>11</td>
+    <td>12</td>
     <td><a href="https://github.com/Labrahmi/cpp-module-01">cpp-module-01</a></td>
     <td>90%</td>
     <td>OOP, Imperative programming, Classes</td>
   </tr>
   <tr>
-    <td>12</td>
+    <td>13</td>
     <td><a href="https://github.com/Labrahmi/cpp-module-02">cpp-module-02</a></td>
     <td>80%</td>
     <td>OOP, Imperative programming, Polymorphism</td>
   </tr>
   <tr>
-    <td>13</td>
+    <td>14</td>
     <td><a href="https://github.com/Labrahmi/cpp-module-03">cpp-module-03</a></td>
     <td>80%</td>
     <td>OOP, Imperative programming, Inheritance</td>
   </tr>
   <tr>
-    <td>14</td>
+    <td>15</td>
     <td><a href="https://github.com/Labrahmi/cpp-module-04">cpp-module-04</a></td>
     <td>100%</td>
     <td>OOP, Imperative programming, Interfaces</td>
